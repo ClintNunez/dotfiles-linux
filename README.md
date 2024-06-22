@@ -24,4 +24,4 @@
 - [ ] Write a setup.sh file for automatic installation
 
 ## Credits
-My polybar setup is a customized version of [astonish-g's setup](https://github.com/astonish-g/i3-everforest-dotfiles)
+My polybar setup is a customized version of [astonish-g's setup](https://github.com/astonish-g/i3-everforest-dotfiles).
