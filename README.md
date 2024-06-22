@@ -2,10 +2,10 @@
 
 ## Preview
 ### Application Launcher
-![launcher](.images/applauncher.png)
+![launcher](/images/applauncher.png)
 
 ### Powermenu 
-![powermenu](.images/powermenu.png)
+![powermenu](/images/powermenu.png)
 
 ## Linux themes
 - Icons: [Tela circle black dark](https://www.gnome-look.org/p/1359276)
